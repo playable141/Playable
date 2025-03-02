@@ -6,7 +6,8 @@ namespace Playable.Model.ENUM
 		Running,
 		Swimming,
 		Cycling,
-		WeightLifing
+		WeightLifing,
+		Boxing
 	}
 }
 
